@@ -32,6 +32,11 @@ O usuário deverá ser capaz de:
 
 >Dicas: evitar libs de formulário por enquanto, fazer usando formulário html padrão
 
+## Extra!
+
+- Colocar botão para limpar o sorteio
+- Utilizar storage do navegador para armazenar as informações :fire:
+
 ## Links úteis
 
 - React boostrap - https://react-bootstrap.github.io/
