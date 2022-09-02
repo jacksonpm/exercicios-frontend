@@ -1,5 +1,7 @@
 # Exercício 1 - App de Sorteio!
 
+![Alt text](mockup.png?raw=true "Mockup")
+
 ## Requisitos Funcionais
 
 Criar um aplicativo que seja capaz de sortear números aleatóriamente.
