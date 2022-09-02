@@ -12,8 +12,6 @@ O usuário deverá ser capaz de:
  - Clicar ativamente no botão Sortear.
  - Visualizar em destaque o último número sorteado
  - Visualizar em lista os números sorteados anteriormente
- 
- O App deverá ser responsivo.
 
 ## Requisitos Técnicos
 
@@ -26,6 +24,7 @@ O usuário deverá ser capaz de:
 
 ## Observações Adicionais
 
+- O App deverá ser responsivo.
 - Utilizar flex-box para centralizar elementos verticalmente e horizontalmente na tela.
 - Utilizar todas as medidas em "rem".
 - Utilizar preferencialmente classes do boostrap.
